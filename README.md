@@ -56,13 +56,6 @@ baselib.dll                 # Biblioteca base de Unity
 
 ---
 
-## Limitaciones
-
-- Este repositorio no contiene el código fuente en C# ni los assets editables en Unity.
-- El build es de solo lectura: no es posible modificar mecánicas o assets sin el proyecto original.
-
----
-
 ## Próximos pasos&#x20;
 
 - Publicar los scripts en C# para mostrar la estructura de código.
@@ -79,5 +72,4 @@ El objetivo principal es documentar la capacidad de generar builds técnicas y d
 
 ---
 
-*README generado automáticamente como documentación técnica para GitHub personal.*
 
